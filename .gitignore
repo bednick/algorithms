@@ -1,0 +1,36 @@
+### Python project default .gitignore
+
+# Temp/local
+temp
+_local
+
+# IntelliJ project files
+.idea
+out
+gen
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtualenv
+
+venv/
+.venv/
+
+# Build/Dist
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+
+# Environments
+.env
