@@ -2,15 +2,8 @@
 
 """"""
 
-# Author: Bedarev Nickolay
-# Mail: n.bedarev@lcgroup.su
-# Limeteam slack: nikkollaii
-# Date: 14.12.2018
-
-import sys
-
-from typing import List, Tuple
 from math import log
+from typing import List
 
 
 class RMQ1(object):

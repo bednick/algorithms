@@ -2,11 +2,6 @@
 
 """"""
 
-# Author: Bedarev Nickolay
-# Mail: n.bedarev@lcgroup.su
-# Limeteam slack: nikkollaii
-# Date: 15.12.2018
-
 from typing import List, Tuple
 
 
